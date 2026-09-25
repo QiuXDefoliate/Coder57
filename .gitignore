@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist/
+coverage/
+.env
+.env.local
+*.log
+*.tsbuildinfo
+apps/api/prisma/*.db
+.codex-finalizer/
+tools/doc-render-*/
+tools/ppt-render*/
+tools/ppt-build/tmp/
+tools/ppt-build/node_modules/
+tools/source-package/
